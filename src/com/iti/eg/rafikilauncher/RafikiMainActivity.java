@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.widget.Toast;
 
 public class RafikiMainActivity extends Activity {
+	//test comment
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
